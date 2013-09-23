@@ -1,0 +1,7 @@
+==Udp Modelos Estocasticos 2013 
+
+Simulation EigenTrust Simple non-distributed
+
+Things you may want to cover:
+* ...
+<tt>rake doc:app</tt>.
