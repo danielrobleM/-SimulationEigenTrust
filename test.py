@@ -73,8 +73,7 @@ if(TipoDeSimulacion==0):
 
  print 'Ultimo Delta',Delta
  print 'Vector t2 final', t2.sum(axis=0)
- def uno():
-	print 'babsabs'
+ 
 
 if (TipoDeSimulacion==1):
    	
