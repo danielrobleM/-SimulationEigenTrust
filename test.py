@@ -6,7 +6,7 @@ print 'Escoge a simular '
 print '0 EigenTrust Simple non-distributed '
 print '1 EigenTrust Basic non-distributed '
 
-TipoDeSimulacion=int(raw_input("Inserte el numero de peers para la Simulacion :"))
+TipoDeSimulacion=int(raw_input("Inserte el numero de la simulacion:"))
 if(TipoDeSimulacion==0):
  	
 #Numero Total de peers a simular 
