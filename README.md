@@ -7,9 +7,9 @@ memolabra@me.com - daniel12dar@gmail.com
 
 #####Descripción
 
-SimulationEigenTrust.py permite generar una simulación del metodo de Eigentrust Simple y no distribuida ( Simple non-distributed) descrito en <em>The EigenTrust Algorithm For Reputation Management in P2P Networks</em>.
+SimulationEigenTrust.py permite generar una simulación del metodo de Eigentrust Simple y no distribuida ( Simple non-distributed) como tambien del metodo Basico descritos en <em>The EigenTrust Algorithm For Reputation Management in P2P Networks</em>.
 ##### Consideraciones
-En esta primera versión se ha utilizado una matriz 4x4 predefinida,que representa un total de 4 peers en la simulación. 
+En esta versión permite seleccionar la cantidad de peers que interactuan en la simulacion.
 ##### Outputs
 <ul>
 <li>Matriz S,j</li>
